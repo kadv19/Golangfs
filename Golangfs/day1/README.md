@@ -1,2 +1,0 @@
- # Golangfs
-skill_dev
